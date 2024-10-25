@@ -7,15 +7,10 @@ Startup ecosystems and scaling tech companies
 Digital automation and innovation
 
 🌱 I’m currently learning
-Advanced AI architectures (RAG, LoRA, AI triggers)
+AI architectures (RAG, LoRA, AI triggers)
 PostgreSQL & ERP integrations
 Text-to-SQL engines and self-deploying agents
 Fintech trends and API-based business solutions
-
-💞️ I’m looking to collaborate on
-AI-powered business solutions and analytics tools
-SaaS products focused on automation and business intelligence
-Open-source projects that simplify complex workflows
 
 📫 How to reach me
 Email: ja@luhn.ai
